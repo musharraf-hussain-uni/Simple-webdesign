@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #969696;
+    padding: 17px;
+    text-align: center;
+    font-style: normal;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+  }
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: right;
+  }
+ 
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  main {
+    padding: 20px;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+  footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
